@@ -1,0 +1,32 @@
+* {
+    text-align: center;
+    align-items: center;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 100px;
+}
+
+.calculator .row {
+    margin-bottom: 20px;
+}
+
+.row button {
+    margin-left: 10px;
+    margin-right: 1-px;
+}
+
+button {
+    width: 40px;
+    height: 40px;
+}
+
+button:hover {
+    background-color: darkgray;
+    border: 2px dashed red;
+}
+
+.clear{
+    width: 15%;
+}
